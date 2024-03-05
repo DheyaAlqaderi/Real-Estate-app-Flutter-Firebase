@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCpc2lhMDNL9KP8qivYH2h-s0Rzd-w4Oo0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>652674484112</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.smartRealEstateFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>smart-real-estate-67577</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smart-real-estate-67577.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:652674484112:ios:858f48d3cc2b3de4b3d515</string>
+</dict>
+</plist>

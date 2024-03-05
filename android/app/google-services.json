@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "652674484112",
+    "project_id": "smart-real-estate-67577",
+    "storage_bucket": "smart-real-estate-67577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652674484112:android:fd42e5c7a149d120b3d515",
+        "android_client_info": {
+          "package_name": "com.example.smart_real_estate_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652674484112-d7m0j74vse2irpq4q4un0tfvtv0e0a1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_real_estate_firebase",
+            "certificate_hash": "e2126b9270f9f1c6fcf247c69a72c183e64419ff"
+          }
+        },
+        {
+          "client_id": "652674484112-uqj2etb3al3u9ftsllt1drum34stcj8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAufER38rDyALBtTOG2cy8e5Iu-kuIGx9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652674484112-uqj2etb3al3u9ftsllt1drum34stcj8f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "652674484112-gc4ea2s5iupq8kg3pgr4peqgt0l2e6lm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartRealEstateFirebase.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
